@@ -1,4 +1,4 @@
-# Aircraft Performance Simulation
+# Aircraft Gliding Performance Simulation
 
 ## Overview
 This repository contains Python scripts for simulating the gliding performance of an aircraft. The simulation models the aircraft's flight dynamics, aerodynamics, and environmental conditions.
