@@ -20,7 +20,7 @@ This repository contains Python scripts for simulating the gliding performance o
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/davilmds15/aircraft_performance_gliding]
+   git clone https://github.com/davilmds15/aircraft_performance_gliding
 
 2. Create a virtual environment (recommended):
 Virtual environments help isolate project dependencies and avoid conflicts with other Python packages on your system. Here's how to create one:
